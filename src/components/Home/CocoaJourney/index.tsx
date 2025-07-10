@@ -50,7 +50,7 @@ export default function CocoaJourney() {
 
           <div className="relative w-full h-[400px]">
             <Image
-              src={`images/cocoa/pabrik.jpeg`}
+              src={`/images/cocoa/pabrik.jpeg`}
               alt="Cocoa process"
               fill
               className="object-cover rounded-xl shadow-lg"
